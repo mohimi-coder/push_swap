@@ -1,4 +1,4 @@
-<h1 align="center">push_swap- 42 _ 1337 </h1>
+<h1 align="center">push_swap_42_1337 </h1>
 <p align="center">
   <a href="https://github.com//mohimi-coder/push_swap">
     <img src="https://github.com/mohimi-coder/1337_badges/blob/master/push_swapm.png?raw=true" alt="42 Badge">
