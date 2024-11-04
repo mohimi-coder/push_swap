@@ -1,4 +1,9 @@
-# push_swap
+<h1 align="center">push_swap- 42 _ 1337 </h1>
+<p align="center">
+  <a href="https://github.com//mohimi-coder/push_swap">
+    <img src="https://github.com/mohimi-coder/1337_badges/blob/master/push_swapm.png?raw=true" alt="42 Badge">
+  </a>
+</p>
 
 When I first became an official student at 1337 coding school, I knew early on that I wanted to tackle some of the algorithms projects that you can unlock.
 
